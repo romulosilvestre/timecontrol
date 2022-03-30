@@ -41,5 +41,10 @@ namespace TimeControl.View
         {
             new Objetivo().Show();
         }
+
+        private void dividaSuasResponsabilidadesToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            new Responsabilidades().Show();
+        }
     }
 }

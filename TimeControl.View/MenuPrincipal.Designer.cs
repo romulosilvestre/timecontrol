@@ -123,6 +123,7 @@ namespace TimeControl.View
             this.dividaSuasResponsabilidadesToolStripMenuItem.Name = "dividaSuasResponsabilidadesToolStripMenuItem";
             this.dividaSuasResponsabilidadesToolStripMenuItem.Size = new System.Drawing.Size(247, 22);
             this.dividaSuasResponsabilidadesToolStripMenuItem.Text = "Divida suas responsabilidades";
+            this.dividaSuasResponsabilidadesToolStripMenuItem.Click += new System.EventHandler(this.dividaSuasResponsabilidadesToolStripMenuItem_Click);
             // 
             // monitoreComoGastaSeuTempoToolStripMenuItem
             // 
